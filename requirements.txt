@@ -1,0 +1,12 @@
+lmdb==1.2.1
+numpy==1.19.5
+torch==1.8.0
+torchvision==0.9.0
+tqdm==4.62.3
+pillow==8.4.0
+opencv-python==4.5.5.62
+torch-fidelity==0.3.0
+tensorboard==2.7.0
+gitpython==3.1.18
+Ninja==1.10.2
+#pip install "git+https://github.com/facebookresearch/pytorch3d.git@stable"
